@@ -1,0 +1,22 @@
+# Arquivos do Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ambientes virtuais
+venv/
+env/
+
+# Configurações do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de log
+*.log
+
+# Dependências
+*.csv
+*.xlsx
+
+# Configurações locais e credenciais
+.env
